@@ -1,0 +1,15 @@
+C:\Users\dalaw\CSharpCurso\bin\Debug\net6.0\CSharpCurso.exe
+C:\Users\dalaw\CSharpCurso\bin\Debug\net6.0\CSharpCurso.deps.json
+C:\Users\dalaw\CSharpCurso\bin\Debug\net6.0\CSharpCurso.runtimeconfig.json
+C:\Users\dalaw\CSharpCurso\bin\Debug\net6.0\CSharpCurso.dll
+C:\Users\dalaw\CSharpCurso\bin\Debug\net6.0\CSharpCurso.pdb
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.csproj.AssemblyReference.cache
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.AssemblyInfoInputs.cache
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.AssemblyInfo.cs
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.csproj.CoreCompileInputs.cache
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.dll
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\refint\CSharpCurso.dll
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.pdb
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\CSharpCurso.genruntimeconfig.cache
+C:\Users\dalaw\CSharpCurso\obj\Debug\net6.0\ref\CSharpCurso.dll
